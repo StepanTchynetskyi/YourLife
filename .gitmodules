@@ -1,0 +1,3 @@
+[submodule "src/MyLifeFontend"]
+	path = src/MyLifeFontend
+	url = git@github.com:StepanTchynetskyi/MyLifeFontend.git
